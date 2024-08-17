@@ -51,3 +51,12 @@ h1{
   background-position: left;
 
 }
+#full{
+  border-left: 7px solid bisque;
+}
+#baby{
+  border-left: 7px solid burlywood;
+}
+footer p{
+  text-align: center;
+}
